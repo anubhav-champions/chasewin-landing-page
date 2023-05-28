@@ -21,7 +21,7 @@
 
 
         //preloader
-        $("#preloader").delay(3500).animate({
+        $("#preloader").delay(1000).animate({
             "opacity": "0"
         }, 500, function () {
             $("#preloader").css("display", "none");
