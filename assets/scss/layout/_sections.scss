@@ -1537,6 +1537,7 @@ section {
                     }
                     .section_info {
                         margin-top: 20px;
+                        // text-align: justify;
                     }
                     .read {
                         padding: 20px 30px;
@@ -1607,7 +1608,7 @@ section {
                             line-height: 1.278;
                             color: $title-color;
                             margin: 15px 0px 35px;
-                            text-align: center;
+                            text-align: left;
                         }
                         form {
                             .mb-3 {

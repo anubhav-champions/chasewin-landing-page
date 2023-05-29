@@ -2791,7 +2791,7 @@ section .container .video_wrapper {
       line-height: 1.278;
       color: #ffffff; }
     .contact_form_wrapper .container .contact_row .col-lg-4 .left_side_content .section_info {
-      margin-top: 20px; }
+      margin-top: 20px; text-align: justify; }
     .contact_form_wrapper .container .contact_row .col-lg-4 .left_side_content .read {
       padding: 20px 30px;
       margin: 30px 0px 65px;
@@ -2850,7 +2850,7 @@ section .container .video_wrapper {
         line-height: 1.278;
         color: #ffffff;
         margin: 15px 0px 35px;
-        text-align: center; }
+        text-align: left; }
       .contact_form_wrapper .container .contact_row .col-lg-7 .right_side_content .form_wrapper form .mb-3 {
         padding-top: 10px;
         padding-bottom: 10px; }
